@@ -1,3 +1,15 @@
+commit cc4b2a3ad1f89f711dfd5b33fd6526394c4ca88b (HEAD -> master, origin/master, origin/HEAD)
+Author: georgerai1 <george.rai@std.balamand.edu.lb>
+Date:   Wed Mar 14 11:12:55 2018 -0400
+
+    added all commits including the procedure text, first and second column data
+
+commit 6117de809dfeedbabce86693e5f836fd06c7db8a
+Author: georgerai <george.rai@std.balamand.edu.lb>
+Date:   Wed Mar 14 15:34:12 2018 +0200
+
+    Added git log file
+
 commit ad73840ca329030599b43a828be116b02b62ac99
 Author: georgerai <george.rai@std.balamand.edu.lb>
 Date:   Wed Mar 14 15:32:30 2018 +0200
@@ -7,18 +19,4 @@ Date:   Wed Mar 14 15:32:30 2018 +0200
 commit 9d438935f780e438c9ce76de2978bc5bc42fd0d7
 Author: georgerai <george.rai@std.balamand.edu.lb>
 Date:   Wed Mar 14 15:20:09 2018 +0200
-
-    added commit with last column data
-
-commit c8f76edd30e308c9c29bcf06bdb31e74e216fd0b
-Author: georgerai <george.rai@std.balamand.edu.lb>
-Date:   Wed Mar 14 15:15:44 2018 +0200
-
-    added file with first column data from statistics.dat
-
-commit b6b12c0eaf237c60945cefc54b1b18c8acf1bf9c
-Author: georgerai <george.rai@std.balamand.edu.lb>
-Date:   Wed Mar 14 15:06:01 2018 +0200
-
-    added commit
 
