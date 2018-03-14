@@ -1,0 +1,24 @@
+commit ad73840ca329030599b43a828be116b02b62ac99
+Author: georgerai <george.rai@std.balamand.edu.lb>
+Date:   Wed Mar 14 15:32:30 2018 +0200
+
+    added all commmits: first and second column and alias text
+
+commit 9d438935f780e438c9ce76de2978bc5bc42fd0d7
+Author: georgerai <george.rai@std.balamand.edu.lb>
+Date:   Wed Mar 14 15:20:09 2018 +0200
+
+    added commit with last column data
+
+commit c8f76edd30e308c9c29bcf06bdb31e74e216fd0b
+Author: georgerai <george.rai@std.balamand.edu.lb>
+Date:   Wed Mar 14 15:15:44 2018 +0200
+
+    added file with first column data from statistics.dat
+
+commit b6b12c0eaf237c60945cefc54b1b18c8acf1bf9c
+Author: georgerai <george.rai@std.balamand.edu.lb>
+Date:   Wed Mar 14 15:06:01 2018 +0200
+
+    added commit
+
