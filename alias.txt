@@ -1,3 +1,3 @@
 alias gsb="git checkout -b George"
-alias sourcebashrc="source ./.bashrc
+alias sourcebashrc="source ~/.bashrc"
 alias cdd="cd Desktop"

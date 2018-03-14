@@ -1,0 +1,7 @@
+split the screen into 2 parts using :vsplit
+open new file using the command :e "name of file"
+use cntrl w+w to navigate to the other window
+use cntrl+v to select a character and then use shift+g to select the data until the end of the column
+copy the selected data using y (yanking)
+then use cntrl w+w to navigate the second window and yank there using p 
+
